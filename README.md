@@ -1,5 +1,5 @@
-# Old Ethereum Contracts
-## Addresses
+# Old Contracts
+## Addresses (Ethereum Mainnet)
 
 GFARM2 Token: [0x831091da075665168e01898c6dac004a867f1e1b](https://etherscan.io/token/0x831091da075665168e01898c6dac004a867f1e1b)
 
